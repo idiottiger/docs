@@ -1,0 +1,29 @@
+Package: [UTF8]ctex
+Title         : Welcome
+Author        : You
+Logo          : True
+
+[TITLE]
+
+# Madoko 
+
+Madoko is a fast markdown processor for writing professional articles
+with a focus on simplicity and plain text readability.
+
+* Read the [reference manual].
+* Explore the upper-right toolbox menu to discover how Markdown works. 
+* `Alt-Q` reformats the current paragraph.
+
+##中文支持显示和输出
+中文好像显示不了，为什么？测试一下呢，哈哈哈
+
+
+```java
+public static void main(String[] args){
+  
+}
+```
+
+Enjoy!
+
+[reference manual]: http://research.microsoft.com/en-us/um/people/daan/madoko/doc/reference.html  "Madoko reference manual"
